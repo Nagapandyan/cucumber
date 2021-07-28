@@ -1,4 +1,3 @@
-
 @tag
 Feature: Login to Upoint application
 
@@ -9,5 +8,4 @@ Feature: Login to Upoint application
     And clicks on login button
     
     Then user should login successfully
-
 
